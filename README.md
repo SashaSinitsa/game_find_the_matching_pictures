@@ -1,3 +1,4 @@
-# game_find_the_matching_pictures
+# mini-game
+##"find the matching pictures"##
 
-just run the file index.html
+Just run the file index.html.
