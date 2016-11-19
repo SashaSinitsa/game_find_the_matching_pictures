@@ -37,9 +37,6 @@
 }
 
 .click-game {
-    /*    width: 800px;
-    height: 500px;*/
-    /*padding: 10px 0;*/
     display: inline-block;
 
     font-family: "Rubik", sans-serif;
@@ -57,7 +54,6 @@
     width: 170px;
     height: 100%;
     padding: 0 10px;
-    /*font-weight: bold;*/
 
     color: white;
 }
@@ -78,7 +74,6 @@
     width: 130px;
     height: 100%;
     padding: 0 10px;
-    /*font-weight: bold;*/
 
     color: white;
 }
@@ -98,7 +93,6 @@
 
 .click-game .center {
     position: relative;
-    /*width: 490px;*/
 
     padding: 3% 0;
     margin: auto 130px auto 170px;
