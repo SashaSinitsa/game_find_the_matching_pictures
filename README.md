@@ -3,4 +3,4 @@
 
 Just run the file index.html.
 
-![screenshot](/assets/screenshot.png)
+![screenshot](assets/screenshot.png)
